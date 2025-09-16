@@ -20,7 +20,8 @@
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/woldier/pro-sfda?style=flat&color=red">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/woldier/pro-sfda?style=flat&color=af2626">
 
-
+  </p>
+</p>
 
 </div>
 
@@ -48,7 +49,7 @@
 [//]: # (<div style="display: flex; align-items: center; justify-content: center;"> Network Architectural and Cross-domain Image Different. </div>)
 
 
-[//]: # (</div>)
+</div>
 
 ---
 [//]: # (- [2024/09/26]  Our paper is accepted to **NeurIPS 2024**.)
