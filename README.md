@@ -7,7 +7,7 @@
 <p align="center">
   <a href="#">
   <br align="center">
-    <a href='https://arxiv.org/abs/2410.13471'>
+    <a href='#'>
         <img src='http://img.shields.io/badge/Paper-arxiv.2410.13471-B31B1B.svg?logo=arXiv&logoColor=B31B1B'>
     </a>
     <img alt="Static Badge" src="https://img.shields.io/badge/python-v3.8-green?logo=python">
@@ -61,7 +61,8 @@
 
 [//]: # (- [2024/11/28] ✨✨This work was submitted  to **IEEE TMM**.)
 [//]: # (- [2024/10/17] ✨✨The [arxiv]&#40;https://arxiv.org/abs/2410.13471&#41; paper is available.)
-- [2024/10/13] 🔥🔥 This work was submitted.
+- [2024/10/17] ✨✨The [arxiv] paper will coming soon。
+- [2025/9/15] 🔥🔥 This work was submitted.
 
 
 ## The code in coming soon 🤗🤗
