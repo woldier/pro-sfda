@@ -62,7 +62,7 @@
 
 [//]: # (- [2024/11/28] ✨✨This work was submitted  to **IEEE TMM**.)
 [//]: # (- [2024/10/17] ✨✨The [arxiv]&#40;https://arxiv.org/abs/2410.13471&#41; paper is available.)
-- [2024/10/17] ✨✨The [arxiv] paper will coming soon。
+- [2024/9/16] ✨✨The [arxiv] paper will coming soon。
 - [2025/9/15] 🔥🔥 This work was submitted.
 
 
