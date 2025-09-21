@@ -44,6 +44,8 @@ in Remote Sensing Semantic Segmentation</h2>
 
 ## 1. Creating Virtual Environment
 
+---
+
 <details>
 <summary>Install script</summary>
 
@@ -116,22 +118,14 @@ The format is as follows:
 <summary>detals</summary>
 
 ```text
-SiamSeg/
+ProSFDA/
 ├── data/
-│   ├── LoveDA/
-│   │   ├── Test.zip
-│   │   ├── Train.zip
-│   │   └── Val.zip
 ├── ├── Potsdam_IRRG_DA/
 │   │   ├── 3_Ortho_IRRG.zip
 │   │   └── 5_Labels_all_noBoundary.zip
-├── ├── Potsdam_RGB_DA/
-│   │   ├── 2_Ortho_RGB.zip
-│   │   └── 5_Labels_all_noBoundary.zip
-├── ├── Potsdam_IRRG_DA/
+├── ├── Vaihingen_IRRG_DA/
 │   │   ├── ISPRS_semantic_labeling_Vaihingen.zip
 │   │   └── ISPRS_semantic_labeling_Vaihingen_ground_truth_eroded_COMPLETE.zip
-
 
 ```
 
@@ -179,18 +173,14 @@ The structure of the file is as follows
 <summary>structure</summary>
 
 ```text
-SiamSeg/
+ProSFDA/
 ├── pretrained/
 │   ├── mit_b5.pth (needed)
-│   └── ohter.pth  (option)
+│   └── ohter.pth  (optional)
 ```
 
 
 </details>
-
-
-
-
 
 
 ---
