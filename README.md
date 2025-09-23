@@ -8,8 +8,8 @@ in Remote Sensing Semantic Segmentation</h2>
 <p align="center">
   <a href="#">
   <br align="center">
-    <a href='#'>
-        <img src='http://img.shields.io/badge/Paper-arxiv.xxx.xxx-B31B1B.svg?logo=arXiv&logoColor=B31B1B'>
+    <a href='http://arxiv.org/abs/2509.16942'>
+        <img src='http://img.shields.io/badge/Paper-arxiv.2509.16942-B31B1B.svg?logo=arXiv&logoColor=B31B1B'>
     </a>
     <img alt="Static Badge" src="https://img.shields.io/badge/python-v3.8-green?logo=python">
     <img alt="Static Badge" src="https://img.shields.io/badge/torch-v1.0.2-B31B1B?logo=pytorch">
@@ -30,6 +30,7 @@ in Remote Sensing Semantic Segmentation</h2>
 <div style="display: flex; align-items: center; justify-content: center;">  Network Overview. </div>
 </div>
 
+- [2024/9/21] 😀😀  The [arxiv] paper is available.
 - [2024/9/21] ✨✨  The `README.md` has been updated.
 - [2024/9/21] 🤓🤓 The [arxiv] paper has been submitted.
 - [2024/9/16] ✨✨ The [arxiv] paper is coming soon.
