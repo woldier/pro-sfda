@@ -29,6 +29,7 @@ in Remote Sensing Semantic Segmentation</h2>
 <img src="figs/overview.png" alt="ProSFDA" style="max-width: 100%; height: auto;"/>
 <div style="display: flex; align-items: center; justify-content: center;">  Network Overview. </div>
 </div>
+
 - [2026/1/17] 🎉🎉  Our paper is accepted to **ICASSP'26**.
 - [2025/9/21] 😀😀  The [arxiv] paper is available.
 - [2025/9/21] ✨✨  The `README.md` has been updated.
